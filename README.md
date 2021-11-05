@@ -6,3 +6,10 @@ User chooses which one to parse, as well as how many news to get (the news are o
 The commands which Bot takes are /start and /launch. After launch, the user inputs sequentially two parameters - source name (Лента, РИА, Известия, РБК) and limiting number of news.
 
 To start a telegram bot, one should launch bot.py file. Python 3.6 interpreter is requiered with installed modules 'requests' and 'telegramBotAPI'.
+
+See example:
+
+
+![bot-1](https://user-images.githubusercontent.com/92943842/140562674-5805ba09-1bd3-480f-a393-31545756438a.jpg)
+
+![bot-2](https://user-images.githubusercontent.com/92943842/140562687-90047da8-3166-4c73-8d50-5317e3b9f9dc.jpg)
