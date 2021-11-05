@@ -9,6 +9,4 @@ To start a telegram bot, one should launch bot.py file. Python 3.6 interpreter i
 
 See example:
 
-![bot-1](https://user-images.githubusercontent.com/92943842/140562674-5805ba09-1bd3-480f-a393-31545756438a.jpg =200x100)
-
-![bot-2](https://user-images.githubusercontent.com/92943842/140562687-90047da8-3166-4c73-8d50-5317e3b9f9dc.jpg =200x100)
+<img src="https://user-images.githubusercontent.com/92943842/140562674-5805ba09-1bd3-480f-a393-31545756438a.jpg" width="220" height="450">      <img src="https://user-images.githubusercontent.com/92943842/140562687-90047da8-3166-4c73-8d50-5317e3b9f9dc.jpg" width="220" height="450">
